@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 8848968e1d0d53648b760391201afe7e
+timeCreated: 1581289705
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Calibri
+  fontNames:
+  - Calibri Italic Bold
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 39c78124ecab8434f80d6ec54d8deb12, type: 3}
+  - {fileID: 12800000, guid: 545b3e54061c52145a65c9e01f8855d7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

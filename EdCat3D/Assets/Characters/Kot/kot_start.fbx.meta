@@ -1,0 +1,225 @@
+fileFormatVersion: 2
+guid: 783008bdcee69d74a8ca15bc261c8f89
+timeCreated: 1641985715
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: CATRigHub001
+    100002: CATRigHub002
+    100004: CATRigHub003
+    100006: CATRigHub003Bone005
+    100008: CATRigHub003Bone006
+    100010: CATRigHub003Bone011
+    100012: CATRigHub003Bone012
+    100014: CATRigHub003EarL
+    100016: CATRigHub003EarR
+    100018: CATRigHub003EYE
+    100020: CATRigHub003EYEL
+    100022: CATRigHub003EYER
+    100024: CATRigHub003Jaw
+    100026: CATRigLArm1
+    100028: CATRigLArm2
+    100030: CATRigLArmCollarbone
+    100032: CATRigLArmDigit11
+    100034: CATRigLArmDigit12
+    100036: CATRigLArmDigit21
+    100038: CATRigLArmDigit22
+    100040: CATRigLArmDigit31
+    100042: CATRigLArmDigit32
+    100044: CATRigLArmDigit41
+    100046: CATRigLArmDigit42
+    100048: CATRigLArmPalm
+    100050: CATRigLLeg1
+    100052: CATRigLLeg2
+    100054: CATRigLLegAnkle
+    100056: CATRigLLegDigit11
+    100058: CATRigLLegPlatform
+    100060: CATRigRArm1
+    100062: CATRigRArm2
+    100064: CATRigRArmCollarbone
+    100066: CATRigRArmDigit11
+    100068: CATRigRArmDigit12
+    100070: CATRigRArmDigit21
+    100072: CATRigRArmDigit22
+    100074: CATRigRArmDigit31
+    100076: CATRigRArmDigit32
+    100078: CATRigRArmDigit41
+    100080: CATRigRArmDigit42
+    100082: CATRigRArmPalm
+    100084: CATRigRLeg1
+    100086: CATRigRLeg2
+    100088: CATRigRLegAnkle
+    100090: CATRigRLegDigit11
+    100092: CATRigRLegPlatform
+    100094: CATRigSpine
+    100096: CATRigSpine 1
+    100098: CATRigTail1
+    100100: CATRigTail2
+    100102: CATRigTail3
+    100104: Character001
+    100106: Circle001
+    100108: Circle002
+    100110: Circle003
+    100112: kot_body
+    100114: kot_bonesL_EYE
+    100116: kot_bonesR_EYE
+    100118: kot_EYE_L
+    100120: kot_EYE_R
+    100122: kot_head
+    100124: //RootNode
+    100126: kot_Vorotnik
+    100128: CATRigHub003Bone013
+    100130: CATRigHub003Bone014
+    100132: kot_fur
+    400000: CATRigHub001
+    400002: CATRigHub002
+    400004: CATRigHub003
+    400006: CATRigHub003Bone005
+    400008: CATRigHub003Bone006
+    400010: CATRigHub003Bone011
+    400012: CATRigHub003Bone012
+    400014: CATRigHub003EarL
+    400016: CATRigHub003EarR
+    400018: CATRigHub003EYE
+    400020: CATRigHub003EYEL
+    400022: CATRigHub003EYER
+    400024: CATRigHub003Jaw
+    400026: CATRigLArm1
+    400028: CATRigLArm2
+    400030: CATRigLArmCollarbone
+    400032: CATRigLArmDigit11
+    400034: CATRigLArmDigit12
+    400036: CATRigLArmDigit21
+    400038: CATRigLArmDigit22
+    400040: CATRigLArmDigit31
+    400042: CATRigLArmDigit32
+    400044: CATRigLArmDigit41
+    400046: CATRigLArmDigit42
+    400048: CATRigLArmPalm
+    400050: CATRigLLeg1
+    400052: CATRigLLeg2
+    400054: CATRigLLegAnkle
+    400056: CATRigLLegDigit11
+    400058: CATRigLLegPlatform
+    400060: CATRigRArm1
+    400062: CATRigRArm2
+    400064: CATRigRArmCollarbone
+    400066: CATRigRArmDigit11
+    400068: CATRigRArmDigit12
+    400070: CATRigRArmDigit21
+    400072: CATRigRArmDigit22
+    400074: CATRigRArmDigit31
+    400076: CATRigRArmDigit32
+    400078: CATRigRArmDigit41
+    400080: CATRigRArmDigit42
+    400082: CATRigRArmPalm
+    400084: CATRigRLeg1
+    400086: CATRigRLeg2
+    400088: CATRigRLegAnkle
+    400090: CATRigRLegDigit11
+    400092: CATRigRLegPlatform
+    400094: CATRigSpine
+    400096: CATRigSpine 1
+    400098: CATRigTail1
+    400100: CATRigTail2
+    400102: CATRigTail3
+    400104: Character001
+    400106: Circle001
+    400108: Circle002
+    400110: Circle003
+    400112: kot_body
+    400114: kot_bonesL_EYE
+    400116: kot_bonesR_EYE
+    400118: kot_EYE_L
+    400120: kot_EYE_R
+    400122: kot_head
+    400124: //RootNode
+    400126: kot_Vorotnik
+    400128: CATRigHub003Bone013
+    400130: CATRigHub003Bone014
+    400132: kot_fur
+    4300000: kot_Vorotnik
+    4300002: kot_EYE_R
+    4300004: kot_head
+    4300006: kot_body
+    4300008: kot_EYE_L
+    4300010: kot_fur
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: kot_body
+    13700002: kot_EYE_L
+    13700004: kot_EYE_R
+    13700006: kot_head
+    13700008: kot_Vorotnik
+    13700010: kot_fur
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

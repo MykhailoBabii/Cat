@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4da8c0682558c724c89617667c8fb4c5, type: 3}
+  m_Name: EnemyDescriptor 2
+  m_EditorClassIdentifier: 
+  _enemyDatas:
+  - _enemyType: 1
+    _combatType: 0
+    _prefabId: monster_scorpion
+    _uiSpriteId: 
+    _enemyDataByLevels:
+    - _level: 1
+      _reactionRadius: 10
+      _attackRadius: 3
+      _movementSpeed: 3.5
+      _healthPoints: 50
+      _armor: 1
+      _attackDamageMin: 1
+      _attackDamageMax: 5
+      _attackSpeed: 2
+      _respawnProbability: 0
+      _criticalDamageProbability: 1
+      _criticalDamagePower: 0
+      _experiencePoints: 10
+      _enemySize: 0
+      _lootDatas:
+      - _itemType: 0
+        _count: 1
+      - _itemType: 1
+        _count: 1

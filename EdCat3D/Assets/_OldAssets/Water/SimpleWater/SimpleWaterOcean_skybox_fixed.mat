@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SimpleWaterOcean_skybox_fixed
+  m_Shader: {fileID: 4800000, guid: 0849bc035b3413f4aae3f0574874acc6, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlphaTex:
+        m_Texture: {fileID: 2800000, guid: cebbc78b76322f84d938ed564bb5ec33, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CubemapTex:
+        m_Texture: {fileID: 8900000, guid: ed5b50f213ca525418786fc2d9583d5a, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FoamTex:
+        m_Texture: {fileID: 2800000, guid: fa4ea1bb1ce0d9840b39e2a2ea29a5d5, type: 3}
+        m_Scale: {x: 1, y: 2}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalTex:
+        m_Texture: {fileID: 2800000, guid: bd29f4258a4cbfb498d3faf3843895a5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Bumpiness: 0.40404037
+    - _Cutoff: 0.01
+    - _FoamAlpha: 0.14545454
+    - _FresnelCoeff: 4.635434
+    - _ScrollDirection: 1.4760685
+    - _ScrollSpeedFoam: 1.0639727
+    - _ScrollSpeedNormal: 0.8989893
+    - _Shininess: 0.10942762
+    - _Specular: 1
+    m_Colors:
+    - _AlphaColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _SpecularColor: {r: 0.41791046, g: 0.3969299, b: 0.3773669, a: 1}
+    - _WaterColor: {r: 0.05490196, g: 0.14117648, b: 0.12156863, a: 1}
+--- !u!1002 &2100001
+EditorExtensionImpl:
+  serializedVersion: 6

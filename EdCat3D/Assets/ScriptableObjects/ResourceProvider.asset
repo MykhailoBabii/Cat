@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b60db37b1dc94e449af0f997894e5a4, type: 3}
+  m_Name: ResourceProvider
+  m_EditorClassIdentifier: 
+  _resources:
+  - _resourceType: 3
+    _id: render_kot
+    _path: renderKot
+  - _resourceType: 3
+    _id: render_sectoid
+    _path: renderSectoid
+  - _resourceType: 2
+    _id: dialog_1_phrase_1
+    _path: Speach/sectoid_dlg_001
+  - _resourceType: 2
+    _id: dialog_1_phrase_2
+    _path: Speach/sectoid_dlg_002
+  - _resourceType: 2
+    _id: dialog_1_phrase_3
+    _path: Speach/sectoid_dlg_003
+  - _resourceType: 2
+    _id: dialog_1_phrase_4
+    _path: Speach/sectoid_dlg_004
+  - _resourceType: 2
+    _id: dialog_1_phrase_5
+    _path: Speach/sectoid_dlg_005
+  - _resourceType: 2
+    _id: dialog_1_phrase_6
+    _path: Speach/sectoid_dlg_006
+  - _resourceType: 2
+    _id: dialog_1_phrase_7
+    _path: Speach/sectoid_dlg_007
+  - _resourceType: 2
+    _id: dialog_1_phrase_8
+    _path: Speach/sectoid_dlg_008
+  - _resourceType: 0
+    _id: dialog_1_back
+    _path: gui_tutorial_ufo_dialogue_background
+  - _resourceType: 1
+    _id: monster_turtledog
+    _path: Monster/Turtledog
+  - _resourceType: 1
+    _id: monster_scorpion
+    _path: Monster/KingScorpion
+  - _resourceType: 1
+    _id: monster_rat
+    _path: Monster/GiantRat
+  - _resourceType: 1
+    _id: monster_bat
+    _path: Monster/EnemyBat
+  - _resourceType: 1
+    _id: monster_spider
+    _path: Monster/Spider

@@ -1,0 +1,293 @@
+fileFormatVersion: 2
+guid: 0cd7f5cf5d554bf4f9c10a414dbfa48e
+timeCreated: 1640559701
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Base Human
+    100002: Base HumanHead
+    100004: Base HumanHeadHair01
+    100006: Base HumanHeadHair02
+    100008: Base HumanHeadHair03
+    100010: Base HumanHeadJaw
+    100012: Base HumanHeadJaw0
+    100014: Base HumanHeadLBrow
+    100016: Base HumanHeadLEye
+    100018: Base HumanHeadLSmile
+    100020: Base HumanHeadRBrow
+    100022: Base HumanHeadREye
+    100024: Base HumanHeadRSmile
+    100026: Base HumanHeadVzor
+    100028: Base HumanLCalf
+    100030: Base HumanLCollarbone
+    100032: Base HumanLDigit11
+    100034: Base HumanLDigit12
+    100036: Base HumanLDigit13
+    100038: Base HumanLDigit21
+    100040: Base HumanLDigit22
+    100042: Base HumanLDigit23
+    100044: Base HumanLDigit31
+    100046: Base HumanLDigit32
+    100048: Base HumanLDigit33
+    100050: Base HumanLDigit41
+    100052: Base HumanLDigit42
+    100054: Base HumanLDigit43
+    100056: Base HumanLDigit51
+    100058: Base HumanLDigit52
+    100060: Base HumanLDigit53
+    100062: Base HumanLFoot
+    100064: Base HumanLForearm
+    100066: Base HumanLPalm
+    100068: Base HumanLPlatform
+    100070: Base HumanLThigh
+    100072: Base HumanLUpperarm
+    100074: Base HumanNeck1
+    100076: Base HumanNeck2
+    100078: Base HumanPelvis
+    100080: Base HumanPelvis_Dress
+    100082: Base HumanRArmCollarbone
+    100084: Base HumanRArmDigit11
+    100086: Base HumanRArmDigit12
+    100088: Base HumanRArmDigit13
+    100090: Base HumanRArmDigit21
+    100092: Base HumanRArmDigit22
+    100094: Base HumanRArmDigit23
+    100096: Base HumanRArmDigit31
+    100098: Base HumanRArmDigit32
+    100100: Base HumanRArmDigit33
+    100102: Base HumanRArmDigit41
+    100104: Base HumanRArmDigit42
+    100106: Base HumanRArmDigit43
+    100108: Base HumanRArmDigit51
+    100110: Base HumanRArmDigit52
+    100112: Base HumanRArmDigit53
+    100114: Base HumanRArmForearm
+    100116: Base HumanRArmPalm
+    100118: Base HumanRArmUpperarm
+    100120: Base HumanRibcage
+    100122: Base HumanRLegCalf
+    100124: Base HumanRLegFoot
+    100126: Base HumanRLegPlatform
+    100128: Base HumanRLegThigh
+    100130: Base HumanSpine1
+    100132: Base HumanSpine2
+    100134: Base HumanSpine3
+    100136: Base HumanSpine4
+    100138: Bone002
+    100140: Bone004
+    100142: BoneLEye
+    100144: BoneREye
+    100146: Circle001
+    100148: Circle002
+    100150: Circle003
+    100152: //RootNode
+    100154: zoeBody
+    100156: zoeEye
+    100158: zoeHair
+    100160: zoeHead
+    100162: zoe_teath
+    100164: zoeHead001
+    100166: Bone005
+    100168: Bone006
+    100170: Bone007
+    100172: Bone008
+    100174: Bone009
+    100176: Bone010
+    100178: Bone011
+    100180: Bone012
+    100182: Bone013
+    100184: Bone014
+    100186: Bone015
+    100188: Bone016
+    100190: Bone018
+    100192: Bone020
+    100194: zoeEyeL
+    100196: zoeEyeR
+    100198: zoeEye2
+    400000: Base Human
+    400002: Base HumanHead
+    400004: Base HumanHeadHair01
+    400006: Base HumanHeadHair02
+    400008: Base HumanHeadHair03
+    400010: Base HumanHeadJaw
+    400012: Base HumanHeadJaw0
+    400014: Base HumanHeadLBrow
+    400016: Base HumanHeadLEye
+    400018: Base HumanHeadLSmile
+    400020: Base HumanHeadRBrow
+    400022: Base HumanHeadREye
+    400024: Base HumanHeadRSmile
+    400026: Base HumanHeadVzor
+    400028: Base HumanLCalf
+    400030: Base HumanLCollarbone
+    400032: Base HumanLDigit11
+    400034: Base HumanLDigit12
+    400036: Base HumanLDigit13
+    400038: Base HumanLDigit21
+    400040: Base HumanLDigit22
+    400042: Base HumanLDigit23
+    400044: Base HumanLDigit31
+    400046: Base HumanLDigit32
+    400048: Base HumanLDigit33
+    400050: Base HumanLDigit41
+    400052: Base HumanLDigit42
+    400054: Base HumanLDigit43
+    400056: Base HumanLDigit51
+    400058: Base HumanLDigit52
+    400060: Base HumanLDigit53
+    400062: Base HumanLFoot
+    400064: Base HumanLForearm
+    400066: Base HumanLPalm
+    400068: Base HumanLPlatform
+    400070: Base HumanLThigh
+    400072: Base HumanLUpperarm
+    400074: Base HumanNeck1
+    400076: Base HumanNeck2
+    400078: Base HumanPelvis
+    400080: Base HumanPelvis_Dress
+    400082: Base HumanRArmCollarbone
+    400084: Base HumanRArmDigit11
+    400086: Base HumanRArmDigit12
+    400088: Base HumanRArmDigit13
+    400090: Base HumanRArmDigit21
+    400092: Base HumanRArmDigit22
+    400094: Base HumanRArmDigit23
+    400096: Base HumanRArmDigit31
+    400098: Base HumanRArmDigit32
+    400100: Base HumanRArmDigit33
+    400102: Base HumanRArmDigit41
+    400104: Base HumanRArmDigit42
+    400106: Base HumanRArmDigit43
+    400108: Base HumanRArmDigit51
+    400110: Base HumanRArmDigit52
+    400112: Base HumanRArmDigit53
+    400114: Base HumanRArmForearm
+    400116: Base HumanRArmPalm
+    400118: Base HumanRArmUpperarm
+    400120: Base HumanRibcage
+    400122: Base HumanRLegCalf
+    400124: Base HumanRLegFoot
+    400126: Base HumanRLegPlatform
+    400128: Base HumanRLegThigh
+    400130: Base HumanSpine1
+    400132: Base HumanSpine2
+    400134: Base HumanSpine3
+    400136: Base HumanSpine4
+    400138: Bone002
+    400140: Bone004
+    400142: BoneLEye
+    400144: BoneREye
+    400146: Circle001
+    400148: Circle002
+    400150: Circle003
+    400152: //RootNode
+    400154: zoeBody
+    400156: zoeEye
+    400158: zoeHair
+    400160: zoeHead
+    400162: zoe_teath
+    400164: zoeHead001
+    400166: Bone005
+    400168: Bone006
+    400170: Bone007
+    400172: Bone008
+    400174: Bone009
+    400176: Bone010
+    400178: Bone011
+    400180: Bone012
+    400182: Bone013
+    400184: Bone014
+    400186: Bone015
+    400188: Bone016
+    400190: Bone018
+    400192: Bone020
+    400194: zoeEyeL
+    400196: zoeEyeR
+    400198: zoeEye2
+    4300000: zoeBody
+    4300002: zoeHead
+    4300004: zoeHair
+    4300006: zoeEye
+    4300008: zoeHead001
+    4300010: zoe_teath
+    4300012: zoeEye2
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: zoeBody
+    13700002: zoeEye
+    13700004: zoeHair
+    13700006: zoeHead
+    13700008: zoe_teath
+    13700010: zoeHead001
+    13700012: zoeEye2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

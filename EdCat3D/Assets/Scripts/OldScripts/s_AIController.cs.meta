@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 013f6dad51911f44e8f0a9456e6a8564
+timeCreated: 1617820170
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - character: {instanceID: 0}
+  - _agent: {instanceID: 0}
+  - enemyBatExplosion: {fileID: 1491598252316222, guid: f011929c21ad1d1499a6a155f50add14,
+      type: 2}
+  - enemyBatShot: {fileID: 1166744338107352, guid: 61643466282339048b34f145aa93bd4b,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

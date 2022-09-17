@@ -1,0 +1,2713 @@
+fileFormatVersion: 2
+guid: ccb8a2e345db54109bd65353d26f9058
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: arm.L
+  - first:
+      1: 100002
+    second: arm.R
+  - first:
+      1: 100004
+    second: //RootNode
+  - first:
+      1: 100006
+    second: fc4
+  - first:
+      1: 100008
+    second: fc4_Arma
+  - first:
+      1: 100010
+    second: fingers.L
+  - first:
+      1: 100012
+    second: fingers.L_end
+  - first:
+      1: 100014
+    second: fingers.R
+  - first:
+      1: 100016
+    second: fingers.R_end
+  - first:
+      1: 100018
+    second: foot.L
+  - first:
+      1: 100020
+    second: foot.R
+  - first:
+      1: 100022
+    second: forearm.L
+  - first:
+      1: 100024
+    second: forearm.R
+  - first:
+      1: 100026
+    second: hand.L
+  - first:
+      1: 100028
+    second: hand.R
+  - first:
+      1: 100030
+    second: head
+  - first:
+      1: 100032
+    second: hip.L
+  - first:
+      1: 100034
+    second: hip.R
+  - first:
+      1: 100036
+    second: IK_arm.L
+  - first:
+      1: 100038
+    second: IK_arm.R
+  - first:
+      1: 100040
+    second: IK_elbow.L
+  - first:
+      1: 100042
+    second: IK_elbow.L_end
+  - first:
+      1: 100044
+    second: IK_elbow.R
+  - first:
+      1: 100046
+    second: IK_elbow.R_end
+  - first:
+      1: 100048
+    second: IK_foot.L
+  - first:
+      1: 100050
+    second: IK_foot.L_end
+  - first:
+      1: 100052
+    second: IK_foot.R
+  - first:
+      1: 100054
+    second: IK_foot.R_end
+  - first:
+      1: 100056
+    second: IK_hip
+  - first:
+      1: 100058
+    second: IK_knee.L
+  - first:
+      1: 100060
+    second: IK_knee.L_end
+  - first:
+      1: 100062
+    second: IK_knee.R
+  - first:
+      1: 100064
+    second: IK_knee.R_end
+  - first:
+      1: 100066
+    second: jaw.L
+  - first:
+      1: 100068
+    second: jaw.L_end
+  - first:
+      1: 100070
+    second: jaw.R
+  - first:
+      1: 100072
+    second: jaw.R_end
+  - first:
+      1: 100074
+    second: leg2.L
+  - first:
+      1: 100076
+    second: leg2.R
+  - first:
+      1: 100078
+    second: leg3.L
+  - first:
+      1: 100080
+    second: leg3.R
+  - first:
+      1: 100082
+    second: neck1
+  - first:
+      1: 100084
+    second: Root_Bone
+  - first:
+      1: 100086
+    second: shoulder.L
+  - first:
+      1: 100088
+    second: shoulder.R
+  - first:
+      1: 100090
+    second: spine1
+  - first:
+      1: 100092
+    second: spine2
+  - first:
+      1: 100094
+    second: tail1
+  - first:
+      1: 100096
+    second: tail2
+  - first:
+      1: 100098
+    second: tail3
+  - first:
+      1: 100100
+    second: tail3_end
+  - first:
+      1: 100102
+    second: toe.L
+  - first:
+      1: 100104
+    second: toe.L_end
+  - first:
+      1: 100106
+    second: toe.R
+  - first:
+      1: 100108
+    second: toe.R_end
+  - first:
+      4: 400000
+    second: arm.L
+  - first:
+      4: 400002
+    second: arm.R
+  - first:
+      4: 400004
+    second: //RootNode
+  - first:
+      4: 400006
+    second: fc4
+  - first:
+      4: 400008
+    second: fc4_Arma
+  - first:
+      4: 400010
+    second: fingers.L
+  - first:
+      4: 400012
+    second: fingers.L_end
+  - first:
+      4: 400014
+    second: fingers.R
+  - first:
+      4: 400016
+    second: fingers.R_end
+  - first:
+      4: 400018
+    second: foot.L
+  - first:
+      4: 400020
+    second: foot.R
+  - first:
+      4: 400022
+    second: forearm.L
+  - first:
+      4: 400024
+    second: forearm.R
+  - first:
+      4: 400026
+    second: hand.L
+  - first:
+      4: 400028
+    second: hand.R
+  - first:
+      4: 400030
+    second: head
+  - first:
+      4: 400032
+    second: hip.L
+  - first:
+      4: 400034
+    second: hip.R
+  - first:
+      4: 400036
+    second: IK_arm.L
+  - first:
+      4: 400038
+    second: IK_arm.R
+  - first:
+      4: 400040
+    second: IK_elbow.L
+  - first:
+      4: 400042
+    second: IK_elbow.L_end
+  - first:
+      4: 400044
+    second: IK_elbow.R
+  - first:
+      4: 400046
+    second: IK_elbow.R_end
+  - first:
+      4: 400048
+    second: IK_foot.L
+  - first:
+      4: 400050
+    second: IK_foot.L_end
+  - first:
+      4: 400052
+    second: IK_foot.R
+  - first:
+      4: 400054
+    second: IK_foot.R_end
+  - first:
+      4: 400056
+    second: IK_hip
+  - first:
+      4: 400058
+    second: IK_knee.L
+  - first:
+      4: 400060
+    second: IK_knee.L_end
+  - first:
+      4: 400062
+    second: IK_knee.R
+  - first:
+      4: 400064
+    second: IK_knee.R_end
+  - first:
+      4: 400066
+    second: jaw.L
+  - first:
+      4: 400068
+    second: jaw.L_end
+  - first:
+      4: 400070
+    second: jaw.R
+  - first:
+      4: 400072
+    second: jaw.R_end
+  - first:
+      4: 400074
+    second: leg2.L
+  - first:
+      4: 400076
+    second: leg2.R
+  - first:
+      4: 400078
+    second: leg3.L
+  - first:
+      4: 400080
+    second: leg3.R
+  - first:
+      4: 400082
+    second: neck1
+  - first:
+      4: 400084
+    second: Root_Bone
+  - first:
+      4: 400086
+    second: shoulder.L
+  - first:
+      4: 400088
+    second: shoulder.R
+  - first:
+      4: 400090
+    second: spine1
+  - first:
+      4: 400092
+    second: spine2
+  - first:
+      4: 400094
+    second: tail1
+  - first:
+      4: 400096
+    second: tail2
+  - first:
+      4: 400098
+    second: tail3
+  - first:
+      4: 400100
+    second: tail3_end
+  - first:
+      4: 400102
+    second: toe.L
+  - first:
+      4: 400104
+    second: toe.L_end
+  - first:
+      4: 400106
+    second: toe.R
+  - first:
+      4: 400108
+    second: toe.R_end
+  - first:
+      43: 4300000
+    second: fc4
+  - first:
+      74: 7400000
+    second: fc4_Arma|fc4_attack1
+  - first:
+      74: 7400002
+    second: fc4_Arma|fc4_attack2
+  - first:
+      74: 7400004
+    second: fc4_Arma|fc4_battle_idle
+  - first:
+      74: 7400006
+    second: fc4_Arma|fc4_death1
+  - first:
+      74: 7400008
+    second: fc4_Arma|fc4_death2
+  - first:
+      74: 7400010
+    second: fc4_Arma|fc4_defence
+  - first:
+      74: 7400012
+    second: fc4_Arma|fc4_hit1
+  - first:
+      74: 7400014
+    second: fc4_Arma|fc4_hit2
+  - first:
+      74: 7400016
+    second: fc4_Arma|fc4_howl
+  - first:
+      74: 7400018
+    second: fc4_Arma|fc4_idle
+  - first:
+      74: 7400020
+    second: fc4_Arma|fc4_jump
+  - first:
+      74: 7400022
+    second: fc4_Arma|fc4_RENDER
+  - first:
+      74: 7400024
+    second: fc4_Arma|fc4_run
+  - first:
+      74: 7400026
+    second: fc4_Arma|fc4_turn_left
+  - first:
+      74: 7400028
+    second: fc4_Arma|fc4_turn_right
+  - first:
+      74: 7400030
+    second: fc4_Arma|fc4_walk
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: fc4
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fc4
+    second: {fileID: 2100000, guid: 3d564d5640500224bb839f0e94aac19c, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: fc4_Arma|fc4_attack1
+      takeName: fc4_Arma|fc4_attack1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: fc4
+        weight: 1
+      - path: fc4_Arma
+        weight: 1
+      - path: fc4_Arma/IK_hip
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L/toe.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L/toe.L/toe.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R/toe.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R/toe.R/toe.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.L/jaw.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.R/jaw.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/fingers.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/fingers.L/fingers.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/fingers.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/fingers.R/fingers.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2/tail3
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2/tail3/tail3_end
+        weight: 1
+      - path: fc4_Arma/IK_knee.L
+        weight: 1
+      - path: fc4_Arma/IK_knee.L/IK_knee.L_end
+        weight: 1
+      - path: fc4_Arma/IK_knee.R
+        weight: 1
+      - path: fc4_Arma/IK_knee.R/IK_knee.R_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L/IK_elbow.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L/IK_elbow.L/IK_elbow.L_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R/IK_elbow.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R/IK_elbow.R/IK_elbow.R_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.L/IK_foot.L_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.R/IK_foot.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: fc4_Arma|fc4_attack2
+      takeName: fc4_Arma|fc4_attack2
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: fc4
+        weight: 1
+      - path: fc4_Arma
+        weight: 1
+      - path: fc4_Arma/IK_hip
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L/toe.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L/toe.L/toe.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R/toe.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R/toe.R/toe.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.L/jaw.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.R/jaw.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/fingers.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/fingers.L/fingers.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/fingers.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/fingers.R/fingers.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2/tail3
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2/tail3/tail3_end
+        weight: 1
+      - path: fc4_Arma/IK_knee.L
+        weight: 1
+      - path: fc4_Arma/IK_knee.L/IK_knee.L_end
+        weight: 1
+      - path: fc4_Arma/IK_knee.R
+        weight: 1
+      - path: fc4_Arma/IK_knee.R/IK_knee.R_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L/IK_elbow.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L/IK_elbow.L/IK_elbow.L_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R/IK_elbow.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R/IK_elbow.R/IK_elbow.R_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.L/IK_foot.L_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.R/IK_foot.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: fc4_Arma|fc4_battle_idle
+      takeName: fc4_Arma|fc4_battle_idle
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: fc4
+        weight: 1
+      - path: fc4_Arma
+        weight: 1
+      - path: fc4_Arma/IK_hip
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L/toe.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L/toe.L/toe.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R/toe.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R/toe.R/toe.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.L/jaw.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.R/jaw.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/fingers.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/fingers.L/fingers.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/fingers.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/fingers.R/fingers.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2/tail3
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2/tail3/tail3_end
+        weight: 1
+      - path: fc4_Arma/IK_knee.L
+        weight: 1
+      - path: fc4_Arma/IK_knee.L/IK_knee.L_end
+        weight: 1
+      - path: fc4_Arma/IK_knee.R
+        weight: 1
+      - path: fc4_Arma/IK_knee.R/IK_knee.R_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L/IK_elbow.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L/IK_elbow.L/IK_elbow.L_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R/IK_elbow.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R/IK_elbow.R/IK_elbow.R_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.L/IK_foot.L_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.R/IK_foot.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: fc4_Arma|fc4_death1
+      takeName: fc4_Arma|fc4_death1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: fc4
+        weight: 1
+      - path: fc4_Arma
+        weight: 1
+      - path: fc4_Arma/IK_hip
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L/toe.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L/toe.L/toe.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R/toe.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R/toe.R/toe.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.L/jaw.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.R/jaw.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/fingers.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/fingers.L/fingers.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/fingers.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/fingers.R/fingers.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2/tail3
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2/tail3/tail3_end
+        weight: 1
+      - path: fc4_Arma/IK_knee.L
+        weight: 1
+      - path: fc4_Arma/IK_knee.L/IK_knee.L_end
+        weight: 1
+      - path: fc4_Arma/IK_knee.R
+        weight: 1
+      - path: fc4_Arma/IK_knee.R/IK_knee.R_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L/IK_elbow.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L/IK_elbow.L/IK_elbow.L_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R/IK_elbow.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R/IK_elbow.R/IK_elbow.R_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.L/IK_foot.L_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.R/IK_foot.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: fc4_Arma|fc4_death2
+      takeName: fc4_Arma|fc4_death2
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 28
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: fc4
+        weight: 1
+      - path: fc4_Arma
+        weight: 1
+      - path: fc4_Arma/IK_hip
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L/toe.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L/toe.L/toe.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R/toe.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R/toe.R/toe.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.L/jaw.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.R/jaw.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/fingers.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/fingers.L/fingers.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/fingers.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/fingers.R/fingers.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2/tail3
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2/tail3/tail3_end
+        weight: 1
+      - path: fc4_Arma/IK_knee.L
+        weight: 1
+      - path: fc4_Arma/IK_knee.L/IK_knee.L_end
+        weight: 1
+      - path: fc4_Arma/IK_knee.R
+        weight: 1
+      - path: fc4_Arma/IK_knee.R/IK_knee.R_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L/IK_elbow.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L/IK_elbow.L/IK_elbow.L_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R/IK_elbow.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R/IK_elbow.R/IK_elbow.R_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.L/IK_foot.L_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.R/IK_foot.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: fc4_Arma|fc4_defence
+      takeName: fc4_Arma|fc4_defence
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: fc4
+        weight: 1
+      - path: fc4_Arma
+        weight: 1
+      - path: fc4_Arma/IK_hip
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L/toe.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L/toe.L/toe.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R/toe.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R/toe.R/toe.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.L/jaw.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.R/jaw.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/fingers.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/fingers.L/fingers.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/fingers.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/fingers.R/fingers.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2/tail3
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2/tail3/tail3_end
+        weight: 1
+      - path: fc4_Arma/IK_knee.L
+        weight: 1
+      - path: fc4_Arma/IK_knee.L/IK_knee.L_end
+        weight: 1
+      - path: fc4_Arma/IK_knee.R
+        weight: 1
+      - path: fc4_Arma/IK_knee.R/IK_knee.R_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L/IK_elbow.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L/IK_elbow.L/IK_elbow.L_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R/IK_elbow.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R/IK_elbow.R/IK_elbow.R_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.L/IK_foot.L_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.R/IK_foot.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: fc4_Arma|fc4_hit1
+      takeName: fc4_Arma|fc4_hit1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: fc4
+        weight: 1
+      - path: fc4_Arma
+        weight: 1
+      - path: fc4_Arma/IK_hip
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L/toe.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L/toe.L/toe.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R/toe.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R/toe.R/toe.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.L/jaw.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.R/jaw.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/fingers.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/fingers.L/fingers.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/fingers.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/fingers.R/fingers.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2/tail3
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2/tail3/tail3_end
+        weight: 1
+      - path: fc4_Arma/IK_knee.L
+        weight: 1
+      - path: fc4_Arma/IK_knee.L/IK_knee.L_end
+        weight: 1
+      - path: fc4_Arma/IK_knee.R
+        weight: 1
+      - path: fc4_Arma/IK_knee.R/IK_knee.R_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L/IK_elbow.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L/IK_elbow.L/IK_elbow.L_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R/IK_elbow.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R/IK_elbow.R/IK_elbow.R_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.L/IK_foot.L_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.R/IK_foot.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: fc4_Arma|fc4_hit2
+      takeName: fc4_Arma|fc4_hit2
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 15
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: fc4
+        weight: 1
+      - path: fc4_Arma
+        weight: 1
+      - path: fc4_Arma/IK_hip
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L/toe.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L/toe.L/toe.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R/toe.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R/toe.R/toe.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.L/jaw.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.R/jaw.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/fingers.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/fingers.L/fingers.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/fingers.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/fingers.R/fingers.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2/tail3
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2/tail3/tail3_end
+        weight: 1
+      - path: fc4_Arma/IK_knee.L
+        weight: 1
+      - path: fc4_Arma/IK_knee.L/IK_knee.L_end
+        weight: 1
+      - path: fc4_Arma/IK_knee.R
+        weight: 1
+      - path: fc4_Arma/IK_knee.R/IK_knee.R_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L/IK_elbow.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L/IK_elbow.L/IK_elbow.L_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R/IK_elbow.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R/IK_elbow.R/IK_elbow.R_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.L/IK_foot.L_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.R/IK_foot.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: fc4_Arma|fc4_howl
+      takeName: fc4_Arma|fc4_howl
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: fc4
+        weight: 1
+      - path: fc4_Arma
+        weight: 1
+      - path: fc4_Arma/IK_hip
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L/toe.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L/toe.L/toe.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R/toe.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R/toe.R/toe.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.L/jaw.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.R/jaw.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/fingers.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/fingers.L/fingers.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/fingers.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/fingers.R/fingers.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2/tail3
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2/tail3/tail3_end
+        weight: 1
+      - path: fc4_Arma/IK_knee.L
+        weight: 1
+      - path: fc4_Arma/IK_knee.L/IK_knee.L_end
+        weight: 1
+      - path: fc4_Arma/IK_knee.R
+        weight: 1
+      - path: fc4_Arma/IK_knee.R/IK_knee.R_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L/IK_elbow.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L/IK_elbow.L/IK_elbow.L_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R/IK_elbow.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R/IK_elbow.R/IK_elbow.R_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.L/IK_foot.L_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.R/IK_foot.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: fc4_Arma|fc4_idle
+      takeName: fc4_Arma|fc4_idle
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: fc4
+        weight: 1
+      - path: fc4_Arma
+        weight: 1
+      - path: fc4_Arma/IK_hip
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L/toe.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L/toe.L/toe.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R/toe.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R/toe.R/toe.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.L/jaw.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.R/jaw.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/fingers.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/fingers.L/fingers.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/fingers.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/fingers.R/fingers.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2/tail3
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2/tail3/tail3_end
+        weight: 1
+      - path: fc4_Arma/IK_knee.L
+        weight: 1
+      - path: fc4_Arma/IK_knee.L/IK_knee.L_end
+        weight: 1
+      - path: fc4_Arma/IK_knee.R
+        weight: 1
+      - path: fc4_Arma/IK_knee.R/IK_knee.R_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L/IK_elbow.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L/IK_elbow.L/IK_elbow.L_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R/IK_elbow.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R/IK_elbow.R/IK_elbow.R_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.L/IK_foot.L_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.R/IK_foot.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: fc4_Arma|fc4_jump
+      takeName: fc4_Arma|fc4_jump
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: fc4
+        weight: 1
+      - path: fc4_Arma
+        weight: 1
+      - path: fc4_Arma/IK_hip
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L/toe.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L/toe.L/toe.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R/toe.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R/toe.R/toe.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.L/jaw.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.R/jaw.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/fingers.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/fingers.L/fingers.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/fingers.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/fingers.R/fingers.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2/tail3
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2/tail3/tail3_end
+        weight: 1
+      - path: fc4_Arma/IK_knee.L
+        weight: 1
+      - path: fc4_Arma/IK_knee.L/IK_knee.L_end
+        weight: 1
+      - path: fc4_Arma/IK_knee.R
+        weight: 1
+      - path: fc4_Arma/IK_knee.R/IK_knee.R_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L/IK_elbow.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L/IK_elbow.L/IK_elbow.L_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R/IK_elbow.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R/IK_elbow.R/IK_elbow.R_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.L/IK_foot.L_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.R/IK_foot.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: fc4_Arma|fc4_RENDER
+      takeName: fc4_Arma|fc4_RENDER
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 6
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: fc4
+        weight: 1
+      - path: fc4_Arma
+        weight: 1
+      - path: fc4_Arma/IK_hip
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L/toe.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L/toe.L/toe.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R/toe.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R/toe.R/toe.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.L/jaw.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.R/jaw.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/fingers.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/fingers.L/fingers.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/fingers.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/fingers.R/fingers.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2/tail3
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2/tail3/tail3_end
+        weight: 1
+      - path: fc4_Arma/IK_knee.L
+        weight: 1
+      - path: fc4_Arma/IK_knee.L/IK_knee.L_end
+        weight: 1
+      - path: fc4_Arma/IK_knee.R
+        weight: 1
+      - path: fc4_Arma/IK_knee.R/IK_knee.R_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L/IK_elbow.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L/IK_elbow.L/IK_elbow.L_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R/IK_elbow.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R/IK_elbow.R/IK_elbow.R_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.L/IK_foot.L_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.R/IK_foot.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: fc4_Arma|fc4_run
+      takeName: fc4_Arma|fc4_run
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: fc4
+        weight: 1
+      - path: fc4_Arma
+        weight: 1
+      - path: fc4_Arma/IK_hip
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L/toe.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L/toe.L/toe.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R/toe.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R/toe.R/toe.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.L/jaw.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.R/jaw.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/fingers.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/fingers.L/fingers.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/fingers.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/fingers.R/fingers.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2/tail3
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2/tail3/tail3_end
+        weight: 1
+      - path: fc4_Arma/IK_knee.L
+        weight: 1
+      - path: fc4_Arma/IK_knee.L/IK_knee.L_end
+        weight: 1
+      - path: fc4_Arma/IK_knee.R
+        weight: 1
+      - path: fc4_Arma/IK_knee.R/IK_knee.R_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L/IK_elbow.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L/IK_elbow.L/IK_elbow.L_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R/IK_elbow.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R/IK_elbow.R/IK_elbow.R_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.L/IK_foot.L_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.R/IK_foot.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: fc4_Arma|fc4_turn_left
+      takeName: fc4_Arma|fc4_turn_left
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: fc4
+        weight: 1
+      - path: fc4_Arma
+        weight: 1
+      - path: fc4_Arma/IK_hip
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L/toe.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L/toe.L/toe.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R/toe.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R/toe.R/toe.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.L/jaw.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.R/jaw.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/fingers.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/fingers.L/fingers.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/fingers.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/fingers.R/fingers.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2/tail3
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2/tail3/tail3_end
+        weight: 1
+      - path: fc4_Arma/IK_knee.L
+        weight: 1
+      - path: fc4_Arma/IK_knee.L/IK_knee.L_end
+        weight: 1
+      - path: fc4_Arma/IK_knee.R
+        weight: 1
+      - path: fc4_Arma/IK_knee.R/IK_knee.R_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L/IK_elbow.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L/IK_elbow.L/IK_elbow.L_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R/IK_elbow.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R/IK_elbow.R/IK_elbow.R_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.L/IK_foot.L_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.R/IK_foot.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: fc4_Arma|fc4_turn_right
+      takeName: fc4_Arma|fc4_turn_right
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: fc4
+        weight: 1
+      - path: fc4_Arma
+        weight: 1
+      - path: fc4_Arma/IK_hip
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L/toe.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L/toe.L/toe.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R/toe.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R/toe.R/toe.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.L/jaw.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.R/jaw.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/fingers.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/fingers.L/fingers.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/fingers.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/fingers.R/fingers.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2/tail3
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2/tail3/tail3_end
+        weight: 1
+      - path: fc4_Arma/IK_knee.L
+        weight: 1
+      - path: fc4_Arma/IK_knee.L/IK_knee.L_end
+        weight: 1
+      - path: fc4_Arma/IK_knee.R
+        weight: 1
+      - path: fc4_Arma/IK_knee.R/IK_knee.R_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L/IK_elbow.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L/IK_elbow.L/IK_elbow.L_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R/IK_elbow.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R/IK_elbow.R/IK_elbow.R_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.L/IK_foot.L_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.R/IK_foot.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: fc4_Arma|fc4_walk
+      takeName: fc4_Arma|fc4_walk
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 32
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: fc4
+        weight: 1
+      - path: fc4_Arma
+        weight: 1
+      - path: fc4_Arma/IK_hip
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L/toe.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.L/leg2.L/leg3.L/foot.L/toe.L/toe.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R/toe.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/hip.R/leg2.R/leg3.R/foot.R/toe.R/toe.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.L/jaw.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/neck1/head/jaw.R/jaw.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/fingers.L
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.L/arm.L/forearm.L/hand.L/fingers.L/fingers.L_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/fingers.R
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/spine2/shoulder.R/arm.R/forearm.R/hand.R/fingers.R/fingers.R_end
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2/tail3
+        weight: 1
+      - path: fc4_Arma/IK_hip/spine1/tail1/tail2/tail3/tail3_end
+        weight: 1
+      - path: fc4_Arma/IK_knee.L
+        weight: 1
+      - path: fc4_Arma/IK_knee.L/IK_knee.L_end
+        weight: 1
+      - path: fc4_Arma/IK_knee.R
+        weight: 1
+      - path: fc4_Arma/IK_knee.R/IK_knee.R_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L/IK_elbow.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.L/IK_elbow.L/IK_elbow.L_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R/IK_elbow.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_arm.R/IK_elbow.R/IK_elbow.R_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.L
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.L/IK_foot.L_end
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.R
+        weight: 1
+      - path: fc4_Arma/Root_Bone/IK_foot.R/IK_foot.R_end
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7849814526187905591
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7849814526187905588}
+  - component: {fileID: 7849814526187905589}
+  m_Layer: 0
+  m_Name: BigBat
+  m_TagString: Untagged
+  m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7849814526187905588
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7849814526187905591}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -35, y: 3, z: 10.21}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7849814526187905589
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7849814526187905591}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b10dd6cb924e7004e914844ed97c1d27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _enemySpawnType: 4
+  _delayBeforeFirstSpawn: 0
+  _enemiesOnStart: 4
+  _spawnRadius: 20
+  _enemiesCountOnSpawn: 3
+  _maximumEnemiesCount: 6
+  enemyPrefab: 
+  _enemyLevelMin: 1
+  _enemyLevelMax: 2
+  _spawnHeight: 0.5
+  _parentForEnemy: {fileID: 7849814526187905588}
+  _enemyDescriptor: {fileID: 11400000, guid: d4d0cbbea0b19d843ad1982150b348c8, type: 2}
+  _resourceProvider: {fileID: 11400000, guid: ddd6289da7d9bfc4b9442308757b08a9, type: 2}

@@ -1,0 +1,723 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a12c93be40b81394f85bf54536c78d0b, type: 3}
+  m_Name: Dialog-First
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: PhrasesDescriptor
+      Entry: 7
+      Data: 0|System.Collections.Generic.List`1[[Core.Dialog.PhraseDescriptor, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 8
+    - Name: 
+      Entry: 7
+      Data: 1|Core.Dialog.PhraseDescriptor, Assembly-CSharp
+    - Name: PhraseId
+      Entry: 1
+      Data: phrase_1
+    - Name: Commands
+      Entry: 7
+      Data: 2|System.Collections.Generic.List`1[[Core.CES.IExecutionCommand, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 10
+    - Name: 
+      Entry: 7
+      Data: 3|Core.CES.PrepareCharacterModelCommand, Assembly-CSharp
+    - Name: _character
+      Entry: 3
+      Data: 1
+    - Name: _isShow
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 4|Core.CES.PrepareCharacterTextureCommand, Assembly-CSharp
+    - Name: _textureKey
+      Entry: 1
+      Data: render_sectoid
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 5|Core.CES.PrepareDialogBackgroundCommand, Assembly-CSharp
+    - Name: _backgroundKey
+      Entry: 1
+      Data: dialog_1_back
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 6|Core.CES.SetDialogPhraseCommand, Assembly-CSharp
+    - Name: _phraseKey
+      Entry: 1
+      Data: DIALOG_1_PHRASE_1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 7|Core.CES.PrepareDialogCharacterNameCommand, Assembly-CSharp
+    - Name: _characterNameKey
+      Entry: 1
+      Data: GRAY_NAME_DIALOG
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 8|Core.CES.SetDialogBackgroundVisabilityCommand, Assembly-CSharp
+    - Name: _visible
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 9|Core.CES.SetDialogPanelVisabilityCommand, Assembly-CSharp
+    - Name: _visible
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 10|Core.CES.PlayCharacterAnimationCommand, Assembly-CSharp
+    - Name: _characterType
+      Entry: 3
+      Data: 1
+    - Name: _animationName
+      Entry: 1
+      Data: npcSpeak
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 11|Core.CES.PlayCharacterDialogCommand, Assembly-CSharp
+    - Name: _audioDialogKey
+      Entry: 1
+      Data: dialog_1_phrase_1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 12|Core.CES.WaitInteractionCommand, Assembly-CSharp
+    - Name: _interactionType
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 13|Core.Dialog.PhraseDescriptor, Assembly-CSharp
+    - Name: PhraseId
+      Entry: 1
+      Data: phrase_2
+    - Name: Commands
+      Entry: 7
+      Data: 14|System.Collections.Generic.List`1[[Core.CES.IExecutionCommand, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 6
+    - Name: 
+      Entry: 7
+      Data: 15|Core.CES.SetDialogBackgroundVisabilityCommand, Assembly-CSharp
+    - Name: _visible
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 16|Core.CES.SetShipScreenVisabilityCommand, Assembly-CSharp
+    - Name: _visible
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 17|Core.CES.SetDialogPhraseCommand, Assembly-CSharp
+    - Name: _phraseKey
+      Entry: 1
+      Data: DIALOG_1_PHRASE_2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 18|Core.CES.PlayCharacterAnimationCommand, Assembly-CSharp
+    - Name: _characterType
+      Entry: 3
+      Data: 1
+    - Name: _animationName
+      Entry: 1
+      Data: npcSpeak
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 19|Core.CES.PlayCharacterDialogCommand, Assembly-CSharp
+    - Name: _audioDialogKey
+      Entry: 1
+      Data: dialog_1_phrase_2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 20|Core.CES.WaitInteractionCommand, Assembly-CSharp
+    - Name: _interactionType
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 21|Core.Dialog.PhraseDescriptor, Assembly-CSharp
+    - Name: PhraseId
+      Entry: 1
+      Data: phrase_3
+    - Name: Commands
+      Entry: 7
+      Data: 22|System.Collections.Generic.List`1[[Core.CES.IExecutionCommand, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 7
+    - Name: 
+      Entry: 7
+      Data: 23|Core.CES.SetObjectPositionCommand, Assembly-CSharp
+    - Name: _keyObjectWho
+      Entry: 1
+      Data: dp_character
+    - Name: _keyObjectTo
+      Entry: 1
+      Data: dp_left_side_character_pos
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 24|Core.CES.SetObjectParentCommand, Assembly-CSharp
+    - Name: _keyObjectWho
+      Entry: 1
+      Data: ss_help_elements
+    - Name: _keyObjectTo
+      Entry: 1
+      Data: dp_dialog_parent
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 25|Core.CES.SetDialogPhraseCommand, Assembly-CSharp
+    - Name: _phraseKey
+      Entry: 1
+      Data: DIALOG_1_PHRASE_3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 26|Core.CES.ShowHelpElementOnShipScreenCommand, Assembly-CSharp
+    - Name: _index
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 27|Core.CES.PlayCharacterAnimationCommand, Assembly-CSharp
+    - Name: _characterType
+      Entry: 3
+      Data: 1
+    - Name: _animationName
+      Entry: 1
+      Data: npcSpeak
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 28|Core.CES.PlayCharacterDialogCommand, Assembly-CSharp
+    - Name: _audioDialogKey
+      Entry: 1
+      Data: dialog_1_phrase_3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 29|Core.CES.WaitInteractionCommand, Assembly-CSharp
+    - Name: _interactionType
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 30|Core.Dialog.PhraseDescriptor, Assembly-CSharp
+    - Name: PhraseId
+      Entry: 1
+      Data: phrase_4
+    - Name: Commands
+      Entry: 7
+      Data: 31|System.Collections.Generic.List`1[[Core.CES.IExecutionCommand, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 5
+    - Name: 
+      Entry: 7
+      Data: 32|Core.CES.ShowHelpElementOnShipScreenCommand, Assembly-CSharp
+    - Name: _index
+      Entry: 3
+      Data: 1
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 33|Core.CES.SetDialogPhraseCommand, Assembly-CSharp
+    - Name: _phraseKey
+      Entry: 1
+      Data: DIALOG_1_PHRASE_4
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 34|Core.CES.PlayCharacterDialogCommand, Assembly-CSharp
+    - Name: _audioDialogKey
+      Entry: 1
+      Data: dialog_1_phrase_4
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 35|Core.CES.PlayCharacterAnimationCommand, Assembly-CSharp
+    - Name: _characterType
+      Entry: 3
+      Data: 1
+    - Name: _animationName
+      Entry: 1
+      Data: npcSpeak
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 36|Core.CES.WaitInteractionCommand, Assembly-CSharp
+    - Name: _interactionType
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 37|Core.Dialog.PhraseDescriptor, Assembly-CSharp
+    - Name: PhraseId
+      Entry: 1
+      Data: phrase_5
+    - Name: Commands
+      Entry: 7
+      Data: 38|System.Collections.Generic.List`1[[Core.CES.IExecutionCommand, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 5
+    - Name: 
+      Entry: 7
+      Data: 39|Core.CES.ShowHelpElementOnShipScreenCommand, Assembly-CSharp
+    - Name: _index
+      Entry: 3
+      Data: 2
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 40|Core.CES.SetDialogPhraseCommand, Assembly-CSharp
+    - Name: _phraseKey
+      Entry: 1
+      Data: DIALOG_1_PHRASE_5
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 41|Core.CES.PlayCharacterDialogCommand, Assembly-CSharp
+    - Name: _audioDialogKey
+      Entry: 1
+      Data: dialog_1_phrase_5
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 42|Core.CES.PlayCharacterAnimationCommand, Assembly-CSharp
+    - Name: _characterType
+      Entry: 3
+      Data: 1
+    - Name: _animationName
+      Entry: 1
+      Data: npcSpeak
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 43|Core.CES.WaitInteractionCommand, Assembly-CSharp
+    - Name: _interactionType
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 44|Core.Dialog.PhraseDescriptor, Assembly-CSharp
+    - Name: PhraseId
+      Entry: 1
+      Data: phrase_6
+    - Name: Commands
+      Entry: 7
+      Data: 45|System.Collections.Generic.List`1[[Core.CES.IExecutionCommand, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 5
+    - Name: 
+      Entry: 7
+      Data: 46|Core.CES.ShowHelpElementOnShipScreenCommand, Assembly-CSharp
+    - Name: _index
+      Entry: 3
+      Data: 3
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 47|Core.CES.SetDialogPhraseCommand, Assembly-CSharp
+    - Name: _phraseKey
+      Entry: 1
+      Data: DIALOG_1_PHRASE_6
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 48|Core.CES.PlayCharacterDialogCommand, Assembly-CSharp
+    - Name: _audioDialogKey
+      Entry: 1
+      Data: dialog_1_phrase_6
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 49|Core.CES.PlayCharacterAnimationCommand, Assembly-CSharp
+    - Name: _characterType
+      Entry: 3
+      Data: 1
+    - Name: _animationName
+      Entry: 1
+      Data: npcSpeak
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 50|Core.CES.WaitInteractionCommand, Assembly-CSharp
+    - Name: _interactionType
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 51|Core.Dialog.PhraseDescriptor, Assembly-CSharp
+    - Name: PhraseId
+      Entry: 1
+      Data: phrase_7
+    - Name: Commands
+      Entry: 7
+      Data: 52|System.Collections.Generic.List`1[[Core.CES.IExecutionCommand, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 5
+    - Name: 
+      Entry: 7
+      Data: 53|Core.CES.ShowHelpElementOnShipScreenCommand, Assembly-CSharp
+    - Name: _index
+      Entry: 3
+      Data: 4
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 54|Core.CES.SetDialogPhraseCommand, Assembly-CSharp
+    - Name: _phraseKey
+      Entry: 1
+      Data: DIALOG_1_PHRASE_7
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 55|Core.CES.PlayCharacterDialogCommand, Assembly-CSharp
+    - Name: _audioDialogKey
+      Entry: 1
+      Data: dialog_1_phrase_7
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 56|Core.CES.PlayCharacterAnimationCommand, Assembly-CSharp
+    - Name: _characterType
+      Entry: 3
+      Data: 1
+    - Name: _animationName
+      Entry: 1
+      Data: npcSpeak
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 57|Core.CES.WaitInteractionCommand, Assembly-CSharp
+    - Name: _interactionType
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 58|Core.Dialog.PhraseDescriptor, Assembly-CSharp
+    - Name: PhraseId
+      Entry: 1
+      Data: phrase_8
+    - Name: Commands
+      Entry: 7
+      Data: 59|System.Collections.Generic.List`1[[Core.CES.IExecutionCommand, Assembly-CSharp]],
+        mscorlib
+    - Name: 
+      Entry: 12
+      Data: 10
+    - Name: 
+      Entry: 7
+      Data: 60|Core.CES.ShowHelpElementOnShipScreenCommand, Assembly-CSharp
+    - Name: _index
+      Entry: 3
+      Data: 5
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 61|Core.CES.SetDialogPhraseCommand, Assembly-CSharp
+    - Name: _phraseKey
+      Entry: 1
+      Data: DIALOG_1_PHRASE_8
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 62|Core.CES.PlayCharacterDialogCommand, Assembly-CSharp
+    - Name: _audioDialogKey
+      Entry: 1
+      Data: dialog_1_phrase_8
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 63|Core.CES.PlayCharacterAnimationCommand, Assembly-CSharp
+    - Name: _characterType
+      Entry: 3
+      Data: 1
+    - Name: _animationName
+      Entry: 1
+      Data: npcSpeak
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 64|Core.CES.WaitInteractionCommand, Assembly-CSharp
+    - Name: _interactionType
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 65|Core.CES.PrepareCharacterModelCommand, Assembly-CSharp
+    - Name: _character
+      Entry: 3
+      Data: 1
+    - Name: _isShow
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 66|Core.CES.SetObjectParentCommand, Assembly-CSharp
+    - Name: _keyObjectWho
+      Entry: 1
+      Data: ss_help_elements
+    - Name: _keyObjectTo
+      Entry: 1
+      Data: ss_help_panel_parent
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 67|Core.CES.HideHelpElementsOnShipScreenCommand, Assembly-CSharp
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 68|Core.CES.SetDialogPanelVisabilityCommand, Assembly-CSharp
+    - Name: _visible
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 69|Core.CES.StopPlayCharacterDialogCommand, Assembly-CSharp
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  _dialogId: first_dialog

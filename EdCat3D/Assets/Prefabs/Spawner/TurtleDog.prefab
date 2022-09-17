@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5712950912230998599
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5712950912230998596}
+  - component: {fileID: 5712950912230998597}
+  m_Layer: 0
+  m_Name: TurtleDog
+  m_TagString: Untagged
+  m_Icon: {fileID: -5397416234189338067, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5712950912230998596
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5712950912230998599}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 26.2, y: 3.7955751, z: -34.09204}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5712950912230998597
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5712950912230998599}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b10dd6cb924e7004e914844ed97c1d27, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _enemySpawnType: 3
+  _delayBeforeFirstSpawn: 0
+  _enemiesOnStart: 4
+  _spawnRadius: 30
+  _enemiesCountOnSpawn: 1
+  _maximumEnemiesCount: 10
+  enemyPrefab: 
+  _enemyLevelMin: 1
+  _enemyLevelMax: 2
+  _spawnHeight: 0.5
+  _parentForEnemy: {fileID: 5712950912230998596}
+  _enemyDescriptor: {fileID: 11400000, guid: d70ad4e1e3bf47149886fd846436be51, type: 2}
+  _resourceProvider: {fileID: 11400000, guid: ddd6289da7d9bfc4b9442308757b08a9, type: 2}
